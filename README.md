@@ -52,7 +52,7 @@ You will need to install the following Python libraries:
 To install the required libraries, open a terminal and run:
 
 ```bash
-pip install google-generativeai python-dotenv
+python -m pip install google-generativeai python-dotenv
 ```
 
 Alternatively, you can create a **requirements.txt** (see below) and use the following command to install everything:
